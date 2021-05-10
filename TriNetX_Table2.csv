@@ -1,0 +1,14 @@
+﻿Diagnosis,AllCOVID-19Patients,%AllCOVID-19Patients,SevereCOVID-19Patients,%SevereCOVID-19Patients,%AllCOVID-19PatientsSevere
+Cough,94259,14.2,13780,15.3,2.1
+Pneumonia,69421,10.4,45871,51,6.9
+Shortness of breath,68394,10.3,27272,30.3,4.1
+Fever,60973,9.2,16365,18.2,2.5
+Pain in throat and chest,35051,5.3,11437,12.7,1.7
+Renal failure,24943,3.8,19858,22.1,3.0
+Diarrhea,18941,2.8,6790,7.6,1.0
+Hypotension,18765,2.8,14753,16.4,2.2
+Loss of taste or smell,9574,1.4,515,0.6,0.1
+ARDS,7464,1.1,6374,7.1,1.0
+Bronchitis,6204,0.9,1412,1.6,0.2
+Acute LRTI,6069,0.9,2088,2.3,0.3
+Hepatic failure,1787,0.3,1448,1.6,0.2
